@@ -1,2 +1,2 @@
 # bash
-Bash config files
+Bash config files for Linux

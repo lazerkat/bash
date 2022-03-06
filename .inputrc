@@ -1,0 +1,3 @@
+# Make up/down arrows search through history by prefix
+"\e[A": history-search-backward
+"\e[B": history-search-forward
